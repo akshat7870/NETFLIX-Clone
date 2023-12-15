@@ -1,0 +1,18 @@
+/* @media screen and (max-width: 1300px) {
+   .first {
+    flex-wrap: wrap;
+   }
+   .secImg img {
+    width: 305;
+   }
+   .secImg video {
+    width: 305;
+   }
+}
+@media screen and (max-width: 1300px) {
+   .footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: white;
+   }
+ } */
